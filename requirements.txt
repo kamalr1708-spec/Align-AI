@@ -1,0 +1,8 @@
+#requirements.txt
+streamlit
+scikit-learn
+numpy
+python-dotenv
+# optional:
+groq
+
