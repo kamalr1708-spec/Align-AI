@@ -17,9 +17,3 @@ Python · Streamlit · Scikit-learn · NumPy · Groq API · python-dotenv
 3. Computes ATS score  
 4. Generates summary & bullet points (LLM or rule-based)
 
-## 🪜 Run Locally
-```bash
-git clone https://github.com/yourusername/align-ai.git
-cd align-ai
-pip install -r requirements.txt
-streamlit run app.py
